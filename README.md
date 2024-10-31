@@ -1,5 +1,11 @@
+<div align="center">
+
+[![Hello World, I'm Kevin!](assets/header.gif)](https://github.com/mvn-khanhnguyen3-dn)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+</div>
+
 # 💫 About Me:
-🔭 I’m currently working on Monstarlab<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Monstarlab<br>🌱 I’m currently learning English<br>💬 Ask me about if you have any question<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
